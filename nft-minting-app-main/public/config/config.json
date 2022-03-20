@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3dfA990Fd9e62cAD10F16FB3a62B3EDf7E1D809F",
+  "SCAN_LINK": "https://polygonscan.com/token/0x3dfa990fd9e62cad10f16fb3a62b3edf7e1d809f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "SlendershieldMan",
+  "SYMBOL": "SLNDRSM",
+  "MAX_SUPPLY": 1995,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 30,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/slendershieldman",
+  "SHOW_BACKGROUND": true
+}
